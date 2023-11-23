@@ -1,9 +1,9 @@
-const Home = () => {
+const Docs = () => {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>body</h1>
+      <h1>DOCS</h1>
     </main>
   )
 }
 
-export default Home
+export default Docs
